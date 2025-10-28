@@ -24,7 +24,7 @@ Extracts tables from every page of a PDF (tested successfully on files with over
 - pandas 
 - openpyxl
 
-**✅ Pros**
+**Pros**
 
 Handles large PDFs that Power Query can’t process
 
